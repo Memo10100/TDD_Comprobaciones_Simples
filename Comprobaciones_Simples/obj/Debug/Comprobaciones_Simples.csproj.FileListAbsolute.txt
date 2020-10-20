@@ -1,0 +1,7 @@
+C:\Users\Juan\Desktop\UDA\Laboratorio II\TDD\TDD_Comprobaciones_Simples\Comprobaciones_Simples\bin\Debug\Comprobaciones_Simples.exe.config
+C:\Users\Juan\Desktop\UDA\Laboratorio II\TDD\TDD_Comprobaciones_Simples\Comprobaciones_Simples\bin\Debug\Comprobaciones_Simples.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\TDD\TDD_Comprobaciones_Simples\Comprobaciones_Simples\bin\Debug\Comprobaciones_Simples.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\TDD\TDD_Comprobaciones_Simples\Comprobaciones_Simples\obj\Debug\Comprobaciones_Simples.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\TDD\TDD_Comprobaciones_Simples\Comprobaciones_Simples\obj\Debug\Comprobaciones_Simples.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\TDD\TDD_Comprobaciones_Simples\Comprobaciones_Simples\obj\Debug\Comprobaciones_Simples.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\TDD\TDD_Comprobaciones_Simples\Comprobaciones_Simples\obj\Debug\Comprobaciones_Simples.pdb

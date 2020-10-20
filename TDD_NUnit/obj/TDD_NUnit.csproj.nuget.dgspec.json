@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Juan\\Desktop\\UDA\\Laboratorio II\\TDD\\TDD_Comprobaciones_Simples\\TDD_NUnit\\TDD_NUnit.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Juan\\Desktop\\UDA\\Laboratorio II\\TDD\\TDD_Comprobaciones_Simples\\Comprobaciones_Simples\\Comprobaciones_Simples.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan\\Desktop\\UDA\\Laboratorio II\\TDD\\TDD_Comprobaciones_Simples\\Comprobaciones_Simples\\Comprobaciones_Simples.csproj",
+        "projectName": "Comprobaciones_Simples",
+        "projectPath": "C:\\Users\\Juan\\Desktop\\UDA\\Laboratorio II\\TDD\\TDD_Comprobaciones_Simples\\Comprobaciones_Simples\\Comprobaciones_Simples.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Juan\\Desktop\\UDA\\Laboratorio II\\TDD\\TDD_Comprobaciones_Simples\\TDD_NUnit\\TDD_NUnit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan\\Desktop\\UDA\\Laboratorio II\\TDD\\TDD_Comprobaciones_Simples\\TDD_NUnit\\TDD_NUnit.csproj",
+        "projectName": "TDD_NUnit",
+        "projectPath": "C:\\Users\\Juan\\Desktop\\UDA\\Laboratorio II\\TDD\\TDD_Comprobaciones_Simples\\TDD_NUnit\\TDD_NUnit.csproj",
+        "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan\\Desktop\\UDA\\Laboratorio II\\TDD\\TDD_Comprobaciones_Simples\\TDD_NUnit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Juan\\Desktop\\UDA\\Laboratorio II\\TDD\\TDD_Comprobaciones_Simples\\Comprobaciones_Simples\\Comprobaciones_Simples.csproj": {
+                "projectPath": "C:\\Users\\Juan\\Desktop\\UDA\\Laboratorio II\\TDD\\TDD_Comprobaciones_Simples\\Comprobaciones_Simples\\Comprobaciones_Simples.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
